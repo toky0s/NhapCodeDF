@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "NhapCodeDF (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "NhapCodeDF (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
